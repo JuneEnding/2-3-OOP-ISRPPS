@@ -1,0 +1,13 @@
+C:\Users\Ульяна\source\repos\lab_0_final\lab_0_final\bin\Debug\netcoreapp3.1\lab_0_final.exe
+C:\Users\Ульяна\source\repos\lab_0_final\lab_0_final\bin\Debug\netcoreapp3.1\lab_0_final.deps.json
+C:\Users\Ульяна\source\repos\lab_0_final\lab_0_final\bin\Debug\netcoreapp3.1\lab_0_final.runtimeconfig.json
+C:\Users\Ульяна\source\repos\lab_0_final\lab_0_final\bin\Debug\netcoreapp3.1\lab_0_final.runtimeconfig.dev.json
+C:\Users\Ульяна\source\repos\lab_0_final\lab_0_final\bin\Debug\netcoreapp3.1\lab_0_final.dll
+C:\Users\Ульяна\source\repos\lab_0_final\lab_0_final\bin\Debug\netcoreapp3.1\lab_0_final.pdb
+C:\Users\Ульяна\source\repos\lab_0_final\lab_0_final\obj\Debug\netcoreapp3.1\lab_0_final.csprojAssemblyReference.cache
+C:\Users\Ульяна\source\repos\lab_0_final\lab_0_final\obj\Debug\netcoreapp3.1\lab_0_final.AssemblyInfoInputs.cache
+C:\Users\Ульяна\source\repos\lab_0_final\lab_0_final\obj\Debug\netcoreapp3.1\lab_0_final.AssemblyInfo.cs
+C:\Users\Ульяна\source\repos\lab_0_final\lab_0_final\obj\Debug\netcoreapp3.1\lab_0_final.csproj.CoreCompileInputs.cache
+C:\Users\Ульяна\source\repos\lab_0_final\lab_0_final\obj\Debug\netcoreapp3.1\lab_0_final.dll
+C:\Users\Ульяна\source\repos\lab_0_final\lab_0_final\obj\Debug\netcoreapp3.1\lab_0_final.pdb
+C:\Users\Ульяна\source\repos\lab_0_final\lab_0_final\obj\Debug\netcoreapp3.1\lab_0_final.genruntimeconfig.cache

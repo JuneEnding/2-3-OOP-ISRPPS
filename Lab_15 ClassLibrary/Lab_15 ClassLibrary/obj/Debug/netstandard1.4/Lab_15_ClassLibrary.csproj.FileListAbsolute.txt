@@ -1,0 +1,11 @@
+C:\Users\uyron\source\repos\Lab_15 ClassLibrary\Lab_15 ClassLibrary\bin\Debug\netstandard1.4\Lab_15_ClassLibrary.deps.json
+C:\Users\uyron\source\repos\Lab_15 ClassLibrary\Lab_15 ClassLibrary\bin\Debug\netstandard1.4\Lab_15_ClassLibrary.dll
+C:\Users\uyron\source\repos\Lab_15 ClassLibrary\Lab_15 ClassLibrary\bin\Debug\netstandard1.4\Lab_15_ClassLibrary.pdb
+C:\Users\uyron\source\repos\Lab_15 ClassLibrary\Lab_15 ClassLibrary\bin\Debug\netstandard1.4\Lab_15 ClassLibrary.pdb
+C:\Users\uyron\source\repos\Lab_15 ClassLibrary\Lab_15 ClassLibrary\obj\Debug\netstandard1.4\Lab_15_ClassLibrary.csprojAssemblyReference.cache
+C:\Users\uyron\source\repos\Lab_15 ClassLibrary\Lab_15 ClassLibrary\obj\Debug\netstandard1.4\Lab_15_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\uyron\source\repos\Lab_15 ClassLibrary\Lab_15 ClassLibrary\obj\Debug\netstandard1.4\Lab_15_ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\uyron\source\repos\Lab_15 ClassLibrary\Lab_15 ClassLibrary\obj\Debug\netstandard1.4\Lab_15_ClassLibrary.AssemblyInfo.cs
+C:\Users\uyron\source\repos\Lab_15 ClassLibrary\Lab_15 ClassLibrary\obj\Debug\netstandard1.4\Lab_15_ClassLibrary.csproj.CopyComplete
+C:\Users\uyron\source\repos\Lab_15 ClassLibrary\Lab_15 ClassLibrary\obj\Debug\netstandard1.4\Lab_15_ClassLibrary.dll
+C:\Users\uyron\source\repos\Lab_15 ClassLibrary\Lab_15 ClassLibrary\obj\Debug\netstandard1.4\Lab_15_ClassLibrary.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "lab_6_1-N_final/1.0.0": {
+        "runtime": {
+          "lab_6_1-N_final.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lab_6_1-N_final/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

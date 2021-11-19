@@ -1,0 +1,13 @@
+D:\Course C programming\2020 09.05\Lab_5\Lab_5\bin\Debug\Lab_5.exe.config
+D:\Course C programming\2020 09.05\Lab_5\Lab_5\bin\Debug\Lab_5.exe
+D:\Course C programming\2020 09.05\Lab_5\Lab_5\bin\Debug\Lab_5.pdb
+D:\Course C programming\2020 09.05\Lab_5\Lab_5\obj\Debug\Lab_5.csprojResolveAssemblyReference.cache
+D:\Course C programming\2020 09.05\Lab_5\Lab_5\obj\Debug\Lab_5.exe
+D:\Course C programming\2020 09.05\Lab_5\Lab_5\obj\Debug\Lab_5.pdb
+C:\Users\uyron\source\repos\Lab_5\Lab_5\bin\Debug\Lab_5.exe.config
+C:\Users\uyron\source\repos\Lab_5\Lab_5\bin\Debug\Lab_5.exe
+C:\Users\uyron\source\repos\Lab_5\Lab_5\bin\Debug\Lab_5.pdb
+C:\Users\uyron\source\repos\Lab_5\Lab_5\obj\Debug\Lab_5.csprojAssemblyReference.cache
+C:\Users\uyron\source\repos\Lab_5\Lab_5\obj\Debug\Lab_5.csproj.CoreCompileInputs.cache
+C:\Users\uyron\source\repos\Lab_5\Lab_5\obj\Debug\Lab_5.exe
+C:\Users\uyron\source\repos\Lab_5\Lab_5\obj\Debug\Lab_5.pdb

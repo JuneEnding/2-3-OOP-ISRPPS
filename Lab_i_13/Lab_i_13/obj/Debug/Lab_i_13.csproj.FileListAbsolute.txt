@@ -1,0 +1,20 @@
+C:\Users\uyron\source\repos\Lab_i_13\Lab_i_13\bin\Debug\Lab_i_13.exe.config
+C:\Users\uyron\source\repos\Lab_i_13\Lab_i_13\bin\Debug\Lab_i_13.exe
+C:\Users\uyron\source\repos\Lab_i_13\Lab_i_13\bin\Debug\Lab_i_13.pdb
+C:\Users\uyron\source\repos\Lab_i_13\Lab_i_13\obj\Debug\Lab_i_13.csprojAssemblyReference.cache
+C:\Users\uyron\source\repos\Lab_i_13\Lab_i_13\obj\Debug\Lab_i_13.Form1.resources
+C:\Users\uyron\source\repos\Lab_i_13\Lab_i_13\obj\Debug\Lab_i_13.Properties.Resources.resources
+C:\Users\uyron\source\repos\Lab_i_13\Lab_i_13\obj\Debug\Lab_i_13.csproj.GenerateResource.cache
+C:\Users\uyron\source\repos\Lab_i_13\Lab_i_13\obj\Debug\Lab_i_13.csproj.CoreCompileInputs.cache
+C:\Users\uyron\source\repos\Lab_i_13\Lab_i_13\obj\Debug\Lab_i_13.exe
+C:\Users\uyron\source\repos\Lab_i_13\Lab_i_13\obj\Debug\Lab_i_13.pdb
+C:\Users\uyron\source\repos\2к 3 сем\Lab_i_13\Lab_i_13\bin\Debug\Lab_i_13.exe.config
+C:\Users\uyron\source\repos\2к 3 сем\Lab_i_13\Lab_i_13\bin\Debug\Lab_i_13.exe
+C:\Users\uyron\source\repos\2к 3 сем\Lab_i_13\Lab_i_13\bin\Debug\Lab_i_13.pdb
+C:\Users\uyron\source\repos\2к 3 сем\Lab_i_13\Lab_i_13\obj\Debug\Lab_i_13.csprojAssemblyReference.cache
+C:\Users\uyron\source\repos\2к 3 сем\Lab_i_13\Lab_i_13\obj\Debug\Lab_i_13.Form1.resources
+C:\Users\uyron\source\repos\2к 3 сем\Lab_i_13\Lab_i_13\obj\Debug\Lab_i_13.Properties.Resources.resources
+C:\Users\uyron\source\repos\2к 3 сем\Lab_i_13\Lab_i_13\obj\Debug\Lab_i_13.csproj.GenerateResource.cache
+C:\Users\uyron\source\repos\2к 3 сем\Lab_i_13\Lab_i_13\obj\Debug\Lab_i_13.csproj.CoreCompileInputs.cache
+C:\Users\uyron\source\repos\2к 3 сем\Lab_i_13\Lab_i_13\obj\Debug\Lab_i_13.exe
+C:\Users\uyron\source\repos\2к 3 сем\Lab_i_13\Lab_i_13\obj\Debug\Lab_i_13.pdb

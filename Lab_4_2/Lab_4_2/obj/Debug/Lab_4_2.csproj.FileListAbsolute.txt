@@ -1,0 +1,13 @@
+D:\Course C programming\2020 09.05\Lab_4_2\Lab_4_2\bin\Debug\Lab_4_2.exe.config
+D:\Course C programming\2020 09.05\Lab_4_2\Lab_4_2\obj\Debug\Lab_4_2.csprojResolveAssemblyReference.cache
+D:\Course C programming\2020 09.05\Lab_4_2\Lab_4_2\bin\Debug\Lab_4_2.exe
+D:\Course C programming\2020 09.05\Lab_4_2\Lab_4_2\bin\Debug\Lab_4_2.pdb
+D:\Course C programming\2020 09.05\Lab_4_2\Lab_4_2\obj\Debug\Lab_4_2.exe
+D:\Course C programming\2020 09.05\Lab_4_2\Lab_4_2\obj\Debug\Lab_4_2.pdb
+C:\Users\uyron\source\repos\Lab_4_2\Lab_4_2\bin\Debug\Lab_4_2.exe.config
+C:\Users\uyron\source\repos\Lab_4_2\Lab_4_2\bin\Debug\Lab_4_2.exe
+C:\Users\uyron\source\repos\Lab_4_2\Lab_4_2\bin\Debug\Lab_4_2.pdb
+C:\Users\uyron\source\repos\Lab_4_2\Lab_4_2\obj\Debug\Lab_4_2.csprojAssemblyReference.cache
+C:\Users\uyron\source\repos\Lab_4_2\Lab_4_2\obj\Debug\Lab_4_2.csproj.CoreCompileInputs.cache
+C:\Users\uyron\source\repos\Lab_4_2\Lab_4_2\obj\Debug\Lab_4_2.exe
+C:\Users\uyron\source\repos\Lab_4_2\Lab_4_2\obj\Debug\Lab_4_2.pdb

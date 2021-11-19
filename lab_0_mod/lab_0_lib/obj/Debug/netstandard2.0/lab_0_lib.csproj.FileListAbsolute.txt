@@ -1,0 +1,17 @@
+C:\Users\Ульяна\source\repos\lab_0_mod\lab_0_lib\bin\Debug\netstandard2.0\lab_0_lib.deps.json
+C:\Users\Ульяна\source\repos\lab_0_mod\lab_0_lib\bin\Debug\netstandard2.0\lab_0_lib.dll
+C:\Users\Ульяна\source\repos\lab_0_mod\lab_0_lib\bin\Debug\netstandard2.0\lab_0_lib.pdb
+C:\Users\Ульяна\source\repos\lab_0_mod\lab_0_lib\obj\Debug\netstandard2.0\lab_0_lib.AssemblyInfoInputs.cache
+C:\Users\Ульяна\source\repos\lab_0_mod\lab_0_lib\obj\Debug\netstandard2.0\lab_0_lib.AssemblyInfo.cs
+C:\Users\Ульяна\source\repos\lab_0_mod\lab_0_lib\obj\Debug\netstandard2.0\lab_0_lib.csproj.CoreCompileInputs.cache
+C:\Users\Ульяна\source\repos\lab_0_mod\lab_0_lib\obj\Debug\netstandard2.0\lab_0_lib.dll
+C:\Users\Ульяна\source\repos\lab_0_mod\lab_0_lib\obj\Debug\netstandard2.0\lab_0_lib.pdb
+C:\Users\uyron\source\repos\lab_0_mod\lab_0_lib\bin\Debug\netstandard2.0\lab_0_lib.deps.json
+C:\Users\uyron\source\repos\lab_0_mod\lab_0_lib\bin\Debug\netstandard2.0\lab_0_lib.dll
+C:\Users\uyron\source\repos\lab_0_mod\lab_0_lib\bin\Debug\netstandard2.0\lab_0_lib.pdb
+C:\Users\uyron\source\repos\lab_0_mod\lab_0_lib\obj\Debug\netstandard2.0\lab_0_lib.csprojAssemblyReference.cache
+C:\Users\uyron\source\repos\lab_0_mod\lab_0_lib\obj\Debug\netstandard2.0\lab_0_lib.AssemblyInfoInputs.cache
+C:\Users\uyron\source\repos\lab_0_mod\lab_0_lib\obj\Debug\netstandard2.0\lab_0_lib.AssemblyInfo.cs
+C:\Users\uyron\source\repos\lab_0_mod\lab_0_lib\obj\Debug\netstandard2.0\lab_0_lib.csproj.CoreCompileInputs.cache
+C:\Users\uyron\source\repos\lab_0_mod\lab_0_lib\obj\Debug\netstandard2.0\lab_0_lib.dll
+C:\Users\uyron\source\repos\lab_0_mod\lab_0_lib\obj\Debug\netstandard2.0\lab_0_lib.pdb

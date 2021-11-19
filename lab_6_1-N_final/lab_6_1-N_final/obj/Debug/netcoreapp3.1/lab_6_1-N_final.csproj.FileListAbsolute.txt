@@ -1,0 +1,13 @@
+C:\Users\uyron\source\repos\lab_6_1-N_final\lab_6_1-N_final\bin\Debug\netcoreapp3.1\lab_6_1-N_final.exe
+C:\Users\uyron\source\repos\lab_6_1-N_final\lab_6_1-N_final\bin\Debug\netcoreapp3.1\lab_6_1-N_final.deps.json
+C:\Users\uyron\source\repos\lab_6_1-N_final\lab_6_1-N_final\bin\Debug\netcoreapp3.1\lab_6_1-N_final.runtimeconfig.json
+C:\Users\uyron\source\repos\lab_6_1-N_final\lab_6_1-N_final\bin\Debug\netcoreapp3.1\lab_6_1-N_final.runtimeconfig.dev.json
+C:\Users\uyron\source\repos\lab_6_1-N_final\lab_6_1-N_final\bin\Debug\netcoreapp3.1\lab_6_1-N_final.dll
+C:\Users\uyron\source\repos\lab_6_1-N_final\lab_6_1-N_final\bin\Debug\netcoreapp3.1\lab_6_1-N_final.pdb
+C:\Users\uyron\source\repos\lab_6_1-N_final\lab_6_1-N_final\obj\Debug\netcoreapp3.1\lab_6_1-N_final.csprojAssemblyReference.cache
+C:\Users\uyron\source\repos\lab_6_1-N_final\lab_6_1-N_final\obj\Debug\netcoreapp3.1\lab_6_1-N_final.AssemblyInfoInputs.cache
+C:\Users\uyron\source\repos\lab_6_1-N_final\lab_6_1-N_final\obj\Debug\netcoreapp3.1\lab_6_1-N_final.AssemblyInfo.cs
+C:\Users\uyron\source\repos\lab_6_1-N_final\lab_6_1-N_final\obj\Debug\netcoreapp3.1\lab_6_1-N_final.csproj.CoreCompileInputs.cache
+C:\Users\uyron\source\repos\lab_6_1-N_final\lab_6_1-N_final\obj\Debug\netcoreapp3.1\lab_6_1-N_final.dll
+C:\Users\uyron\source\repos\lab_6_1-N_final\lab_6_1-N_final\obj\Debug\netcoreapp3.1\lab_6_1-N_final.pdb
+C:\Users\uyron\source\repos\lab_6_1-N_final\lab_6_1-N_final\obj\Debug\netcoreapp3.1\lab_6_1-N_final.genruntimeconfig.cache

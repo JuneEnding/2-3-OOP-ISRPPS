@@ -1,0 +1,109 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "lab_1_mod/1.0.0": {
+        "dependencies": {
+          "lab_1_libA": "1.0.0"
+        },
+        "runtime": {
+          "lab_1_mod.dll": {}
+        }
+      },
+      "lab_1_libA/1.0.0": {
+        "dependencies": {
+          "lab_1_libB": "1.0.0",
+          "lab_1_libC": "1.0.0",
+          "lab_1_libJ": "1.0.0"
+        },
+        "runtime": {
+          "lab_1_libA.dll": {}
+        }
+      },
+      "lab_1_libB/1.0.0": {
+        "dependencies": {
+          "lab_1_libD": "1.0.0",
+          "lab_1_libE": "1.0.0"
+        },
+        "runtime": {
+          "lab_1_libB.dll": {}
+        }
+      },
+      "lab_1_libC/1.0.0": {
+        "dependencies": {
+          "lab_1_libE": "1.0.0",
+          "lab_1_libF": "1.0.0"
+        },
+        "runtime": {
+          "lab_1_libC.dll": {}
+        }
+      },
+      "lab_1_libD/1.0.0": {
+        "runtime": {
+          "lab_1_libD.dll": {}
+        }
+      },
+      "lab_1_libE/1.0.0": {
+        "runtime": {
+          "lab_1_libE.dll": {}
+        }
+      },
+      "lab_1_libF/1.0.0": {
+        "runtime": {
+          "lab_1_libF.dll": {}
+        }
+      },
+      "lab_1_libJ/1.0.0": {
+        "runtime": {
+          "lab_1_libJ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lab_1_mod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "lab_1_libA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "lab_1_libB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "lab_1_libC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "lab_1_libD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "lab_1_libE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "lab_1_libF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "lab_1_libJ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

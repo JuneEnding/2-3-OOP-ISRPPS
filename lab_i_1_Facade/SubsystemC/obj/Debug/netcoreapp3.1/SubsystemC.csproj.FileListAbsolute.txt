@@ -1,0 +1,4 @@
+C:\Users\uyron\source\repos\lab_i_1_Facade\SubsystemC\obj\Debug\netcoreapp3.1\SubsystemC.csprojAssemblyReference.cache
+C:\Users\uyron\source\repos\lab_i_1_Facade\SubsystemC\obj\Debug\netcoreapp3.1\SubsystemC.AssemblyInfoInputs.cache
+C:\Users\uyron\source\repos\lab_i_1_Facade\SubsystemC\obj\Debug\netcoreapp3.1\SubsystemC.AssemblyInfo.cs
+C:\Users\uyron\source\repos\lab_i_1_Facade\SubsystemC\obj\Debug\netcoreapp3.1\SubsystemC.csproj.CoreCompileInputs.cache

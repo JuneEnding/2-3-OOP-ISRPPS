@@ -1,0 +1,15 @@
+C:\Users\uyron\source\repos\lab_i_3\lab_i_3\bin\Debug\netcoreapp3.1\lab_i_3.exe
+C:\Users\uyron\source\repos\lab_i_3\lab_i_3\bin\Debug\netcoreapp3.1\lab_i_3.deps.json
+C:\Users\uyron\source\repos\lab_i_3\lab_i_3\bin\Debug\netcoreapp3.1\lab_i_3.runtimeconfig.json
+C:\Users\uyron\source\repos\lab_i_3\lab_i_3\bin\Debug\netcoreapp3.1\lab_i_3.runtimeconfig.dev.json
+C:\Users\uyron\source\repos\lab_i_3\lab_i_3\bin\Debug\netcoreapp3.1\lab_i_3.dll
+C:\Users\uyron\source\repos\lab_i_3\lab_i_3\bin\Debug\netcoreapp3.1\lab_i_3.pdb
+C:\Users\uyron\source\repos\lab_i_3\lab_i_3\obj\Debug\netcoreapp3.1\lab_i_3.csprojAssemblyReference.cache
+C:\Users\uyron\source\repos\lab_i_3\lab_i_3\obj\Debug\netcoreapp3.1\lab_i_3.Form1.resources
+C:\Users\uyron\source\repos\lab_i_3\lab_i_3\obj\Debug\netcoreapp3.1\lab_i_3.csproj.GenerateResource.cache
+C:\Users\uyron\source\repos\lab_i_3\lab_i_3\obj\Debug\netcoreapp3.1\lab_i_3.AssemblyInfoInputs.cache
+C:\Users\uyron\source\repos\lab_i_3\lab_i_3\obj\Debug\netcoreapp3.1\lab_i_3.AssemblyInfo.cs
+C:\Users\uyron\source\repos\lab_i_3\lab_i_3\obj\Debug\netcoreapp3.1\lab_i_3.csproj.CoreCompileInputs.cache
+C:\Users\uyron\source\repos\lab_i_3\lab_i_3\obj\Debug\netcoreapp3.1\lab_i_3.dll
+C:\Users\uyron\source\repos\lab_i_3\lab_i_3\obj\Debug\netcoreapp3.1\lab_i_3.pdb
+C:\Users\uyron\source\repos\lab_i_3\lab_i_3\obj\Debug\netcoreapp3.1\lab_i_3.genruntimeconfig.cache

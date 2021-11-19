@@ -1,0 +1,13 @@
+C:\Users\uyron\source\repos\lab_4_0\lab_4_0\bin\Debug\netcoreapp3.1\lab_4_0.exe
+C:\Users\uyron\source\repos\lab_4_0\lab_4_0\bin\Debug\netcoreapp3.1\lab_4_0.deps.json
+C:\Users\uyron\source\repos\lab_4_0\lab_4_0\bin\Debug\netcoreapp3.1\lab_4_0.runtimeconfig.json
+C:\Users\uyron\source\repos\lab_4_0\lab_4_0\bin\Debug\netcoreapp3.1\lab_4_0.runtimeconfig.dev.json
+C:\Users\uyron\source\repos\lab_4_0\lab_4_0\bin\Debug\netcoreapp3.1\lab_4_0.dll
+C:\Users\uyron\source\repos\lab_4_0\lab_4_0\bin\Debug\netcoreapp3.1\lab_4_0.pdb
+C:\Users\uyron\source\repos\lab_4_0\lab_4_0\obj\Debug\netcoreapp3.1\lab_4_0.csprojAssemblyReference.cache
+C:\Users\uyron\source\repos\lab_4_0\lab_4_0\obj\Debug\netcoreapp3.1\lab_4_0.AssemblyInfoInputs.cache
+C:\Users\uyron\source\repos\lab_4_0\lab_4_0\obj\Debug\netcoreapp3.1\lab_4_0.AssemblyInfo.cs
+C:\Users\uyron\source\repos\lab_4_0\lab_4_0\obj\Debug\netcoreapp3.1\lab_4_0.csproj.CoreCompileInputs.cache
+C:\Users\uyron\source\repos\lab_4_0\lab_4_0\obj\Debug\netcoreapp3.1\lab_4_0.dll
+C:\Users\uyron\source\repos\lab_4_0\lab_4_0\obj\Debug\netcoreapp3.1\lab_4_0.pdb
+C:\Users\uyron\source\repos\lab_4_0\lab_4_0\obj\Debug\netcoreapp3.1\lab_4_0.genruntimeconfig.cache

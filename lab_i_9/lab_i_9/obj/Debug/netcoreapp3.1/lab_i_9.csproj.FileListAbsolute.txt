@@ -1,0 +1,15 @@
+C:\Users\uyron\source\repos\lab_i_9\lab_i_9\bin\Debug\netcoreapp3.1\lab_i_9.exe
+C:\Users\uyron\source\repos\lab_i_9\lab_i_9\bin\Debug\netcoreapp3.1\lab_i_9.deps.json
+C:\Users\uyron\source\repos\lab_i_9\lab_i_9\bin\Debug\netcoreapp3.1\lab_i_9.runtimeconfig.json
+C:\Users\uyron\source\repos\lab_i_9\lab_i_9\bin\Debug\netcoreapp3.1\lab_i_9.runtimeconfig.dev.json
+C:\Users\uyron\source\repos\lab_i_9\lab_i_9\bin\Debug\netcoreapp3.1\lab_i_9.dll
+C:\Users\uyron\source\repos\lab_i_9\lab_i_9\bin\Debug\netcoreapp3.1\lab_i_9.pdb
+C:\Users\uyron\source\repos\lab_i_9\lab_i_9\obj\Debug\netcoreapp3.1\lab_i_9.csprojAssemblyReference.cache
+C:\Users\uyron\source\repos\lab_i_9\lab_i_9\obj\Debug\netcoreapp3.1\lab_i_9.Form1.resources
+C:\Users\uyron\source\repos\lab_i_9\lab_i_9\obj\Debug\netcoreapp3.1\lab_i_9.csproj.GenerateResource.cache
+C:\Users\uyron\source\repos\lab_i_9\lab_i_9\obj\Debug\netcoreapp3.1\lab_i_9.AssemblyInfoInputs.cache
+C:\Users\uyron\source\repos\lab_i_9\lab_i_9\obj\Debug\netcoreapp3.1\lab_i_9.AssemblyInfo.cs
+C:\Users\uyron\source\repos\lab_i_9\lab_i_9\obj\Debug\netcoreapp3.1\lab_i_9.csproj.CoreCompileInputs.cache
+C:\Users\uyron\source\repos\lab_i_9\lab_i_9\obj\Debug\netcoreapp3.1\lab_i_9.dll
+C:\Users\uyron\source\repos\lab_i_9\lab_i_9\obj\Debug\netcoreapp3.1\lab_i_9.pdb
+C:\Users\uyron\source\repos\lab_i_9\lab_i_9\obj\Debug\netcoreapp3.1\lab_i_9.genruntimeconfig.cache

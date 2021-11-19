@@ -1,0 +1,4 @@
+C:\Users\uyron\source\repos\lab_8_3\lab_8_3\obj\Debug\netcoreapp3.1\lab_8_3.csprojAssemblyReference.cache
+C:\Users\uyron\source\repos\lab_8_3\lab_8_3\obj\Debug\netcoreapp3.1\lab_8_3.AssemblyInfoInputs.cache
+C:\Users\uyron\source\repos\lab_8_3\lab_8_3\obj\Debug\netcoreapp3.1\lab_8_3.AssemblyInfo.cs
+C:\Users\uyron\source\repos\lab_8_3\lab_8_3\obj\Debug\netcoreapp3.1\lab_8_3.csproj.CoreCompileInputs.cache

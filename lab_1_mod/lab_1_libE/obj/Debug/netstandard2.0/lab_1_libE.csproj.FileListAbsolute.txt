@@ -1,0 +1,17 @@
+C:\Users\Ульяна\source\repos\lab_1_mod\lab_1_libE\bin\Debug\netstandard2.0\lab_1_libE.deps.json
+C:\Users\Ульяна\source\repos\lab_1_mod\lab_1_libE\bin\Debug\netstandard2.0\lab_1_libE.dll
+C:\Users\Ульяна\source\repos\lab_1_mod\lab_1_libE\bin\Debug\netstandard2.0\lab_1_libE.pdb
+C:\Users\Ульяна\source\repos\lab_1_mod\lab_1_libE\obj\Debug\netstandard2.0\lab_1_libE.AssemblyInfoInputs.cache
+C:\Users\Ульяна\source\repos\lab_1_mod\lab_1_libE\obj\Debug\netstandard2.0\lab_1_libE.AssemblyInfo.cs
+C:\Users\Ульяна\source\repos\lab_1_mod\lab_1_libE\obj\Debug\netstandard2.0\lab_1_libE.csproj.CoreCompileInputs.cache
+C:\Users\Ульяна\source\repos\lab_1_mod\lab_1_libE\obj\Debug\netstandard2.0\lab_1_libE.dll
+C:\Users\Ульяна\source\repos\lab_1_mod\lab_1_libE\obj\Debug\netstandard2.0\lab_1_libE.pdb
+C:\Users\uyron\source\repos\lab_1_mod\lab_1_libE\bin\Debug\netstandard2.0\lab_1_libE.deps.json
+C:\Users\uyron\source\repos\lab_1_mod\lab_1_libE\bin\Debug\netstandard2.0\lab_1_libE.dll
+C:\Users\uyron\source\repos\lab_1_mod\lab_1_libE\bin\Debug\netstandard2.0\lab_1_libE.pdb
+C:\Users\uyron\source\repos\lab_1_mod\lab_1_libE\obj\Debug\netstandard2.0\lab_1_libE.csprojAssemblyReference.cache
+C:\Users\uyron\source\repos\lab_1_mod\lab_1_libE\obj\Debug\netstandard2.0\lab_1_libE.AssemblyInfoInputs.cache
+C:\Users\uyron\source\repos\lab_1_mod\lab_1_libE\obj\Debug\netstandard2.0\lab_1_libE.AssemblyInfo.cs
+C:\Users\uyron\source\repos\lab_1_mod\lab_1_libE\obj\Debug\netstandard2.0\lab_1_libE.csproj.CoreCompileInputs.cache
+C:\Users\uyron\source\repos\lab_1_mod\lab_1_libE\obj\Debug\netstandard2.0\lab_1_libE.dll
+C:\Users\uyron\source\repos\lab_1_mod\lab_1_libE\obj\Debug\netstandard2.0\lab_1_libE.pdb

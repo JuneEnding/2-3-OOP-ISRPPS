@@ -1,0 +1,44 @@
+F:\C#\Projects\GrafObjEditor\GrafObj\obj\Debug\GrafObj.csprojAssemblyReference.cache
+F:\C#\Projects\GrafObjEditor\GrafObj\obj\Debug\GrafObj.Form1.resources
+F:\C#\Projects\GrafObjEditor\GrafObj\obj\Debug\GrafObj.View.EditObject.resources
+F:\C#\Projects\GrafObjEditor\GrafObj\obj\Debug\GrafObj.csproj.GenerateResource.cache
+F:\C#\Projects\GrafObjEditor\GrafObj\obj\Debug\GrafObj.Properties.Resources.resources
+F:\C#\Projects\GrafObjEditor\GrafObj\obj\Debug\GrafObj.csproj.CoreCompileInputs.cache
+F:\C#\Projects\GrafObjEditor\GrafObj\bin\Debug\GrafObj.exe.config
+F:\C#\Projects\GrafObjEditor\GrafObj\bin\Debug\GrafObj.exe
+F:\C#\Projects\GrafObjEditor\GrafObj\bin\Debug\GrafObj.pdb
+F:\C#\Projects\GrafObjEditor\GrafObj\obj\Debug\GrafObj.exe
+F:\C#\Projects\GrafObjEditor\GrafObj\obj\Debug\GrafObj.pdb
+C:\Users\uyron\source\repos\GrafObjEditor\GrafObj\bin\Debug\GrafObj.exe.config
+C:\Users\uyron\source\repos\GrafObjEditor\GrafObj\bin\Debug\GrafObj.exe
+C:\Users\uyron\source\repos\GrafObjEditor\GrafObj\bin\Debug\GrafObj.pdb
+C:\Users\uyron\source\repos\GrafObjEditor\GrafObj\obj\Debug\GrafObj.csprojAssemblyReference.cache
+C:\Users\uyron\source\repos\GrafObjEditor\GrafObj\obj\Debug\GrafObj.Form1.resources
+C:\Users\uyron\source\repos\GrafObjEditor\GrafObj\obj\Debug\GrafObj.Properties.Resources.resources
+C:\Users\uyron\source\repos\GrafObjEditor\GrafObj\obj\Debug\GrafObj.View.EditObject.resources
+C:\Users\uyron\source\repos\GrafObjEditor\GrafObj\obj\Debug\GrafObj.csproj.GenerateResource.cache
+C:\Users\uyron\source\repos\GrafObjEditor\GrafObj\obj\Debug\GrafObj.csproj.CoreCompileInputs.cache
+C:\Users\uyron\source\repos\GrafObjEditor\GrafObj\obj\Debug\GrafObj.exe
+C:\Users\uyron\source\repos\GrafObjEditor\GrafObj\obj\Debug\GrafObj.pdb
+C:\Users\uyron\source\repos\GrafObjEditorV24.12.20\GrafObjEditor\GrafObj\bin\Debug\GrafObj.exe.config
+C:\Users\uyron\source\repos\GrafObjEditorV24.12.20\GrafObjEditor\GrafObj\bin\Debug\GrafObj.exe
+C:\Users\uyron\source\repos\GrafObjEditorV24.12.20\GrafObjEditor\GrafObj\bin\Debug\GrafObj.pdb
+C:\Users\uyron\source\repos\GrafObjEditorV24.12.20\GrafObjEditor\GrafObj\obj\Debug\GrafObj.csprojAssemblyReference.cache
+C:\Users\uyron\source\repos\GrafObjEditorV24.12.20\GrafObjEditor\GrafObj\obj\Debug\GrafObj.Form1.resources
+C:\Users\uyron\source\repos\GrafObjEditorV24.12.20\GrafObjEditor\GrafObj\obj\Debug\GrafObj.Properties.Resources.resources
+C:\Users\uyron\source\repos\GrafObjEditorV24.12.20\GrafObjEditor\GrafObj\obj\Debug\GrafObj.View.EditObject.resources
+C:\Users\uyron\source\repos\GrafObjEditorV24.12.20\GrafObjEditor\GrafObj\obj\Debug\GrafObj.csproj.GenerateResource.cache
+C:\Users\uyron\source\repos\GrafObjEditorV24.12.20\GrafObjEditor\GrafObj\obj\Debug\GrafObj.csproj.CoreCompileInputs.cache
+C:\Users\uyron\source\repos\GrafObjEditorV24.12.20\GrafObjEditor\GrafObj\obj\Debug\GrafObj.exe
+C:\Users\uyron\source\repos\GrafObjEditorV24.12.20\GrafObjEditor\GrafObj\obj\Debug\GrafObj.pdb
+C:\Users\uyron\source\repos\2к 3 сем\GrafObjEditorV24.12.20\GrafObjEditor\GrafObj\bin\Debug\GrafObj.exe.config
+C:\Users\uyron\source\repos\2к 3 сем\GrafObjEditorV24.12.20\GrafObjEditor\GrafObj\bin\Debug\GrafObj.exe
+C:\Users\uyron\source\repos\2к 3 сем\GrafObjEditorV24.12.20\GrafObjEditor\GrafObj\bin\Debug\GrafObj.pdb
+C:\Users\uyron\source\repos\2к 3 сем\GrafObjEditorV24.12.20\GrafObjEditor\GrafObj\obj\Debug\GrafObj.csprojAssemblyReference.cache
+C:\Users\uyron\source\repos\2к 3 сем\GrafObjEditorV24.12.20\GrafObjEditor\GrafObj\obj\Debug\GrafObj.Form1.resources
+C:\Users\uyron\source\repos\2к 3 сем\GrafObjEditorV24.12.20\GrafObjEditor\GrafObj\obj\Debug\GrafObj.Properties.Resources.resources
+C:\Users\uyron\source\repos\2к 3 сем\GrafObjEditorV24.12.20\GrafObjEditor\GrafObj\obj\Debug\GrafObj.View.EditObject.resources
+C:\Users\uyron\source\repos\2к 3 сем\GrafObjEditorV24.12.20\GrafObjEditor\GrafObj\obj\Debug\GrafObj.csproj.GenerateResource.cache
+C:\Users\uyron\source\repos\2к 3 сем\GrafObjEditorV24.12.20\GrafObjEditor\GrafObj\obj\Debug\GrafObj.csproj.CoreCompileInputs.cache
+C:\Users\uyron\source\repos\2к 3 сем\GrafObjEditorV24.12.20\GrafObjEditor\GrafObj\obj\Debug\GrafObj.exe
+C:\Users\uyron\source\repos\2к 3 сем\GrafObjEditorV24.12.20\GrafObjEditor\GrafObj\obj\Debug\GrafObj.pdb

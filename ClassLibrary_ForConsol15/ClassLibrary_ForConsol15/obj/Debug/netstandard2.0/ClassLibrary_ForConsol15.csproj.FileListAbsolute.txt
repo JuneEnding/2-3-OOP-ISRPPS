@@ -1,0 +1,8 @@
+C:\Users\uyron\source\repos\ClassLibrary_ForConsol15\ClassLibrary_ForConsol15\bin\Debug\netstandard2.0\ClassLibrary_ForConsol15.deps.json
+C:\Users\uyron\source\repos\ClassLibrary_ForConsol15\ClassLibrary_ForConsol15\bin\Debug\netstandard2.0\ClassLibrary_ForConsol15.dll
+C:\Users\uyron\source\repos\ClassLibrary_ForConsol15\ClassLibrary_ForConsol15\bin\Debug\netstandard2.0\ClassLibrary_ForConsol15.pdb
+C:\Users\uyron\source\repos\ClassLibrary_ForConsol15\ClassLibrary_ForConsol15\obj\Debug\netstandard2.0\ClassLibrary_ForConsol15.AssemblyInfoInputs.cache
+C:\Users\uyron\source\repos\ClassLibrary_ForConsol15\ClassLibrary_ForConsol15\obj\Debug\netstandard2.0\ClassLibrary_ForConsol15.AssemblyInfo.cs
+C:\Users\uyron\source\repos\ClassLibrary_ForConsol15\ClassLibrary_ForConsol15\obj\Debug\netstandard2.0\ClassLibrary_ForConsol15.csproj.CoreCompileInputs.cache
+C:\Users\uyron\source\repos\ClassLibrary_ForConsol15\ClassLibrary_ForConsol15\obj\Debug\netstandard2.0\ClassLibrary_ForConsol15.dll
+C:\Users\uyron\source\repos\ClassLibrary_ForConsol15\ClassLibrary_ForConsol15\obj\Debug\netstandard2.0\ClassLibrary_ForConsol15.pdb

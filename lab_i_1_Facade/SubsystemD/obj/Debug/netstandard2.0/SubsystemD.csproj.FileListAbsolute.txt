@@ -1,0 +1,9 @@
+C:\Users\uyron\source\repos\lab_i_1_Facade\SubsystemD\bin\Debug\netstandard2.0\SubsystemD.deps.json
+C:\Users\uyron\source\repos\lab_i_1_Facade\SubsystemD\bin\Debug\netstandard2.0\SubsystemD.dll
+C:\Users\uyron\source\repos\lab_i_1_Facade\SubsystemD\bin\Debug\netstandard2.0\SubsystemD.pdb
+C:\Users\uyron\source\repos\lab_i_1_Facade\SubsystemD\obj\Debug\netstandard2.0\SubsystemD.csprojAssemblyReference.cache
+C:\Users\uyron\source\repos\lab_i_1_Facade\SubsystemD\obj\Debug\netstandard2.0\SubsystemD.AssemblyInfoInputs.cache
+C:\Users\uyron\source\repos\lab_i_1_Facade\SubsystemD\obj\Debug\netstandard2.0\SubsystemD.AssemblyInfo.cs
+C:\Users\uyron\source\repos\lab_i_1_Facade\SubsystemD\obj\Debug\netstandard2.0\SubsystemD.csproj.CoreCompileInputs.cache
+C:\Users\uyron\source\repos\lab_i_1_Facade\SubsystemD\obj\Debug\netstandard2.0\SubsystemD.dll
+C:\Users\uyron\source\repos\lab_i_1_Facade\SubsystemD\obj\Debug\netstandard2.0\SubsystemD.pdb

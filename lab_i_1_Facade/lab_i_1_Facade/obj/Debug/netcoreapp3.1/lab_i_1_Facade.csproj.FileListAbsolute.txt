@@ -1,0 +1,15 @@
+C:\Users\uyron\source\repos\lab_i_1_Facade\lab_i_1_Facade\obj\Debug\netcoreapp3.1\lab_i_1_Facade.csprojAssemblyReference.cache
+C:\Users\uyron\source\repos\lab_i_1_Facade\lab_i_1_Facade\obj\Debug\netcoreapp3.1\lab_i_1_Facade.Form1.resources
+C:\Users\uyron\source\repos\lab_i_1_Facade\lab_i_1_Facade\obj\Debug\netcoreapp3.1\lab_i_1_Facade.csproj.GenerateResource.cache
+C:\Users\uyron\source\repos\lab_i_1_Facade\lab_i_1_Facade\obj\Debug\netcoreapp3.1\lab_i_1_Facade.AssemblyInfoInputs.cache
+C:\Users\uyron\source\repos\lab_i_1_Facade\lab_i_1_Facade\obj\Debug\netcoreapp3.1\lab_i_1_Facade.AssemblyInfo.cs
+C:\Users\uyron\source\repos\lab_i_1_Facade\lab_i_1_Facade\obj\Debug\netcoreapp3.1\lab_i_1_Facade.csproj.CoreCompileInputs.cache
+C:\Users\uyron\source\repos\lab_i_1_Facade\lab_i_1_Facade\bin\Debug\netcoreapp3.1\lab_i_1_Facade.exe
+C:\Users\uyron\source\repos\lab_i_1_Facade\lab_i_1_Facade\bin\Debug\netcoreapp3.1\lab_i_1_Facade.deps.json
+C:\Users\uyron\source\repos\lab_i_1_Facade\lab_i_1_Facade\bin\Debug\netcoreapp3.1\lab_i_1_Facade.runtimeconfig.json
+C:\Users\uyron\source\repos\lab_i_1_Facade\lab_i_1_Facade\bin\Debug\netcoreapp3.1\lab_i_1_Facade.runtimeconfig.dev.json
+C:\Users\uyron\source\repos\lab_i_1_Facade\lab_i_1_Facade\bin\Debug\netcoreapp3.1\lab_i_1_Facade.dll
+C:\Users\uyron\source\repos\lab_i_1_Facade\lab_i_1_Facade\bin\Debug\netcoreapp3.1\lab_i_1_Facade.pdb
+C:\Users\uyron\source\repos\lab_i_1_Facade\lab_i_1_Facade\obj\Debug\netcoreapp3.1\lab_i_1_Facade.dll
+C:\Users\uyron\source\repos\lab_i_1_Facade\lab_i_1_Facade\obj\Debug\netcoreapp3.1\lab_i_1_Facade.pdb
+C:\Users\uyron\source\repos\lab_i_1_Facade\lab_i_1_Facade\obj\Debug\netcoreapp3.1\lab_i_1_Facade.genruntimeconfig.cache

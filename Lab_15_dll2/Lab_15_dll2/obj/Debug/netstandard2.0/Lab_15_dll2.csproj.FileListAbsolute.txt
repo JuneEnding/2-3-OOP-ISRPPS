@@ -1,0 +1,9 @@
+C:\Users\uyron\source\repos\Lab_15_dll2\Lab_15_dll2\bin\Debug\netstandard2.0\Lab_15_dll2.deps.json
+C:\Users\uyron\source\repos\Lab_15_dll2\Lab_15_dll2\bin\Debug\netstandard2.0\Lab_15_dll2.dll
+C:\Users\uyron\source\repos\Lab_15_dll2\Lab_15_dll2\bin\Debug\netstandard2.0\Lab_15_dll2.pdb
+C:\Users\uyron\source\repos\Lab_15_dll2\Lab_15_dll2\obj\Debug\netstandard2.0\Lab_15_dll2.csprojAssemblyReference.cache
+C:\Users\uyron\source\repos\Lab_15_dll2\Lab_15_dll2\obj\Debug\netstandard2.0\Lab_15_dll2.csproj.CoreCompileInputs.cache
+C:\Users\uyron\source\repos\Lab_15_dll2\Lab_15_dll2\obj\Debug\netstandard2.0\Lab_15_dll2.AssemblyInfoInputs.cache
+C:\Users\uyron\source\repos\Lab_15_dll2\Lab_15_dll2\obj\Debug\netstandard2.0\Lab_15_dll2.AssemblyInfo.cs
+C:\Users\uyron\source\repos\Lab_15_dll2\Lab_15_dll2\obj\Debug\netstandard2.0\Lab_15_dll2.dll
+C:\Users\uyron\source\repos\Lab_15_dll2\Lab_15_dll2\obj\Debug\netstandard2.0\Lab_15_dll2.pdb

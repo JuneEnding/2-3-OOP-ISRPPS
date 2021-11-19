@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "lab_i_1_Facade/1.0.0": {
+        "runtime": {
+          "lab_i_1_Facade.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lab_i_1_Facade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\uyron\source\repos\lab_9_2\lab_9_2\bin\Debug\netcoreapp3.1\lab_9_2.exe
+C:\Users\uyron\source\repos\lab_9_2\lab_9_2\bin\Debug\netcoreapp3.1\lab_9_2.deps.json
+C:\Users\uyron\source\repos\lab_9_2\lab_9_2\bin\Debug\netcoreapp3.1\lab_9_2.runtimeconfig.json
+C:\Users\uyron\source\repos\lab_9_2\lab_9_2\bin\Debug\netcoreapp3.1\lab_9_2.runtimeconfig.dev.json
+C:\Users\uyron\source\repos\lab_9_2\lab_9_2\bin\Debug\netcoreapp3.1\lab_9_2.dll
+C:\Users\uyron\source\repos\lab_9_2\lab_9_2\bin\Debug\netcoreapp3.1\lab_9_2.pdb
+C:\Users\uyron\source\repos\lab_9_2\lab_9_2\obj\Debug\netcoreapp3.1\lab_9_2.csprojAssemblyReference.cache
+C:\Users\uyron\source\repos\lab_9_2\lab_9_2\obj\Debug\netcoreapp3.1\lab_9_2.AssemblyInfoInputs.cache
+C:\Users\uyron\source\repos\lab_9_2\lab_9_2\obj\Debug\netcoreapp3.1\lab_9_2.AssemblyInfo.cs
+C:\Users\uyron\source\repos\lab_9_2\lab_9_2\obj\Debug\netcoreapp3.1\lab_9_2.csproj.CoreCompileInputs.cache
+C:\Users\uyron\source\repos\lab_9_2\lab_9_2\obj\Debug\netcoreapp3.1\lab_9_2.dll
+C:\Users\uyron\source\repos\lab_9_2\lab_9_2\obj\Debug\netcoreapp3.1\lab_9_2.pdb
+C:\Users\uyron\source\repos\lab_9_2\lab_9_2\obj\Debug\netcoreapp3.1\lab_9_2.genruntimeconfig.cache

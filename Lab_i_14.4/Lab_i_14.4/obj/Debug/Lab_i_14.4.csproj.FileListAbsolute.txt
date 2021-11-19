@@ -1,0 +1,17 @@
+C:\Users\uyron\source\repos\Lab_i_14.4\Lab_i_14.4\bin\Debug\Lab_i_14.4.exe.config
+C:\Users\uyron\source\repos\Lab_i_14.4\Lab_i_14.4\bin\Debug\Lab_i_14.4.exe
+C:\Users\uyron\source\repos\Lab_i_14.4\Lab_i_14.4\bin\Debug\Lab_i_14.4.pdb
+C:\Users\uyron\source\repos\Lab_i_14.4\Lab_i_14.4\obj\Debug\Lab_i_14.4.csprojAssemblyReference.cache
+C:\Users\uyron\source\repos\Lab_i_14.4\Lab_i_14.4\obj\Debug\Lab_i_14._4.Form1.resources
+C:\Users\uyron\source\repos\Lab_i_14.4\Lab_i_14.4\obj\Debug\Lab_i_14._4.Properties.Resources.resources
+C:\Users\uyron\source\repos\Lab_i_14.4\Lab_i_14.4\obj\Debug\Lab_i_14.4.csproj.GenerateResource.cache
+C:\Users\uyron\source\repos\Lab_i_14.4\Lab_i_14.4\obj\Debug\Lab_i_14.4.csproj.CoreCompileInputs.cache
+C:\Users\uyron\source\repos\Lab_i_14.4\Lab_i_14.4\obj\Debug\Lab_i_14.4.exe
+C:\Users\uyron\source\repos\Lab_i_14.4\Lab_i_14.4\obj\Debug\Lab_i_14.4.pdb
+C:\Users\uyron\source\repos\2к 3 сем\Lab_i_14.4\Lab_i_14.4\obj\Debug\Lab_i_14.4.csprojAssemblyReference.cache
+C:\Users\uyron\source\repos\2к 3 сем\Lab_i_14.4\Lab_i_14.4\obj\Debug\Lab_i_14._4.Form1.resources
+C:\Users\uyron\source\repos\2к 3 сем\Lab_i_14.4\Lab_i_14.4\obj\Debug\Lab_i_14._4.Properties.Resources.resources
+C:\Users\uyron\source\repos\2к 3 сем\Lab_i_14.4\Lab_i_14.4\obj\Debug\Lab_i_14.4.csproj.GenerateResource.cache
+C:\Users\uyron\source\repos\2к 3 сем\Lab_i_14.4\Lab_i_14.4\obj\Debug\Lab_i_14.4.csproj.CoreCompileInputs.cache
+C:\Users\uyron\source\repos\2к 3 сем\Lab_i_14.4\Lab_i_14.4\obj\Debug\Lab_i_14.4.exe
+C:\Users\uyron\source\repos\2к 3 сем\Lab_i_14.4\Lab_i_14.4\obj\Debug\Lab_i_14.4.pdb

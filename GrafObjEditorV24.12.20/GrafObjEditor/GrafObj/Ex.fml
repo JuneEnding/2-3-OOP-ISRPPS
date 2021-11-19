@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <countel>3</countel>
+  <selectrel>false</selectrel>
+  <adjmatrix>
+    <DataElem>
+      <name>a</name>
+      <color>ff00aeae</color>
+      <direction>0</direction>
+      <location>
+        <X>137</X>
+        <Y>33</Y>
+      </location>
+    </DataElem>
+    <DataElem>
+      <direction>1</direction>
+      <location>
+        <X>0</X>
+        <Y>0</Y>
+      </location>
+    </DataElem>
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem>
+      <name>b</name>
+      <color>ff8080c0</color>
+      <direction>0</direction>
+      <location>
+        <X>196</X>
+        <Y>80</Y>
+      </location>
+    </DataElem>
+    <DataElem>
+      <direction>1</direction>
+      <location>
+        <X>0</X>
+        <Y>0</Y>
+      </location>
+    </DataElem>
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem>
+      <name>c</name>
+      <color>ff0080ff</color>
+      <direction>0</direction>
+      <location>
+        <X>253</X>
+        <Y>130</Y>
+      </location>
+    </DataElem>
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+    <DataElem xsi:nil="true" />
+  </adjmatrix>
+  <timer>0</timer>
+</Model>

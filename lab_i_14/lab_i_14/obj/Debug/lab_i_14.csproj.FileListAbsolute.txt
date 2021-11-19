@@ -1,0 +1,10 @@
+C:\Users\uyron\source\repos\lab_i_14\lab_i_14\bin\Debug\lab_i_14.exe.config
+C:\Users\uyron\source\repos\lab_i_14\lab_i_14\bin\Debug\lab_i_14.exe
+C:\Users\uyron\source\repos\lab_i_14\lab_i_14\bin\Debug\lab_i_14.pdb
+C:\Users\uyron\source\repos\lab_i_14\lab_i_14\obj\Debug\lab_i_14.csprojAssemblyReference.cache
+C:\Users\uyron\source\repos\lab_i_14\lab_i_14\obj\Debug\lab_i_14.Form1.resources
+C:\Users\uyron\source\repos\lab_i_14\lab_i_14\obj\Debug\lab_i_14.Properties.Resources.resources
+C:\Users\uyron\source\repos\lab_i_14\lab_i_14\obj\Debug\lab_i_14.csproj.GenerateResource.cache
+C:\Users\uyron\source\repos\lab_i_14\lab_i_14\obj\Debug\lab_i_14.csproj.CoreCompileInputs.cache
+C:\Users\uyron\source\repos\lab_i_14\lab_i_14\obj\Debug\lab_i_14.exe
+C:\Users\uyron\source\repos\lab_i_14\lab_i_14\obj\Debug\lab_i_14.pdb

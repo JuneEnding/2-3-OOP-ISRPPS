@@ -1,0 +1,17 @@
+C:\Users\Ульяна\source\repos\lab_1_mod\lab_1_libJ\bin\Debug\netstandard2.0\lab_1_libJ.deps.json
+C:\Users\Ульяна\source\repos\lab_1_mod\lab_1_libJ\bin\Debug\netstandard2.0\lab_1_libJ.dll
+C:\Users\Ульяна\source\repos\lab_1_mod\lab_1_libJ\bin\Debug\netstandard2.0\lab_1_libJ.pdb
+C:\Users\Ульяна\source\repos\lab_1_mod\lab_1_libJ\obj\Debug\netstandard2.0\lab_1_libJ.AssemblyInfoInputs.cache
+C:\Users\Ульяна\source\repos\lab_1_mod\lab_1_libJ\obj\Debug\netstandard2.0\lab_1_libJ.AssemblyInfo.cs
+C:\Users\Ульяна\source\repos\lab_1_mod\lab_1_libJ\obj\Debug\netstandard2.0\lab_1_libJ.csproj.CoreCompileInputs.cache
+C:\Users\Ульяна\source\repos\lab_1_mod\lab_1_libJ\obj\Debug\netstandard2.0\lab_1_libJ.dll
+C:\Users\Ульяна\source\repos\lab_1_mod\lab_1_libJ\obj\Debug\netstandard2.0\lab_1_libJ.pdb
+C:\Users\uyron\source\repos\lab_1_mod\lab_1_libJ\bin\Debug\netstandard2.0\lab_1_libJ.deps.json
+C:\Users\uyron\source\repos\lab_1_mod\lab_1_libJ\bin\Debug\netstandard2.0\lab_1_libJ.dll
+C:\Users\uyron\source\repos\lab_1_mod\lab_1_libJ\bin\Debug\netstandard2.0\lab_1_libJ.pdb
+C:\Users\uyron\source\repos\lab_1_mod\lab_1_libJ\obj\Debug\netstandard2.0\lab_1_libJ.AssemblyInfoInputs.cache
+C:\Users\uyron\source\repos\lab_1_mod\lab_1_libJ\obj\Debug\netstandard2.0\lab_1_libJ.AssemblyInfo.cs
+C:\Users\uyron\source\repos\lab_1_mod\lab_1_libJ\obj\Debug\netstandard2.0\lab_1_libJ.csproj.CoreCompileInputs.cache
+C:\Users\uyron\source\repos\lab_1_mod\lab_1_libJ\obj\Debug\netstandard2.0\lab_1_libJ.dll
+C:\Users\uyron\source\repos\lab_1_mod\lab_1_libJ\obj\Debug\netstandard2.0\lab_1_libJ.pdb
+C:\Users\uyron\source\repos\lab_1_mod\lab_1_libJ\obj\Debug\netstandard2.0\lab_1_libJ.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+2XKRLm/NykV8R72bUsTwZQZScLS0xz0AxqYnv82nzbKxS2SC3m47hDYELLRAGmDMsI3rmAN2LfuGVC859L1HA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\uyron\\source\\repos\\ClassLibrary_ForConsol15\\ClassLibrary_ForConsol15\\ClassLibrary_ForConsol15.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\uyron\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\uyron\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

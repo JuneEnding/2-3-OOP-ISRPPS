@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\lab_1_libB\lab_1_libB.csproj" />
+    <ProjectReference Include="..\lab_1_libC\lab_1_libC.csproj" />
+    <ProjectReference Include="..\lab_1_libJ\lab_1_libJ.csproj" />
+  </ItemGroup>
+
+</Project>

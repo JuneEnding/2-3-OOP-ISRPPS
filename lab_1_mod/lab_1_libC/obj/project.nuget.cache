@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y5Zv+a+xe/kH7BP1LC9UbbhQxNamvFBrVqriL716m/jGj6owsZoCDQfavdwOKv0FApFq2U+qDtfhUGCj2wi86Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libC\\lab_1_libC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\uyron\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\uyron\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

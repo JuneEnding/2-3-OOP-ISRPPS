@@ -1,0 +1,417 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libA\\lab_1_libA.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libA\\lab_1_libA.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libA\\lab_1_libA.csproj",
+        "projectName": "lab_1_libA",
+        "projectPath": "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libA\\lab_1_libA.csproj",
+        "packagesPath": "C:\\Users\\uyron\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libA\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\uyron\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libB\\lab_1_libB.csproj": {
+                "projectPath": "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libB\\lab_1_libB.csproj"
+              },
+              "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libC\\lab_1_libC.csproj": {
+                "projectPath": "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libC\\lab_1_libC.csproj"
+              },
+              "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libJ\\lab_1_libJ.csproj": {
+                "projectPath": "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libJ\\lab_1_libJ.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libB\\lab_1_libB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libB\\lab_1_libB.csproj",
+        "projectName": "lab_1_libB",
+        "projectPath": "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libB\\lab_1_libB.csproj",
+        "packagesPath": "C:\\Users\\uyron\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libB\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\uyron\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libD\\lab_1_libD.csproj": {
+                "projectPath": "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libD\\lab_1_libD.csproj"
+              },
+              "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libE\\lab_1_libE.csproj": {
+                "projectPath": "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libE\\lab_1_libE.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libC\\lab_1_libC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libC\\lab_1_libC.csproj",
+        "projectName": "lab_1_libC",
+        "projectPath": "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libC\\lab_1_libC.csproj",
+        "packagesPath": "C:\\Users\\uyron\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\uyron\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libE\\lab_1_libE.csproj": {
+                "projectPath": "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libE\\lab_1_libE.csproj"
+              },
+              "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libF\\lab_1_libF.csproj": {
+                "projectPath": "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libF\\lab_1_libF.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libD\\lab_1_libD.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libD\\lab_1_libD.csproj",
+        "projectName": "lab_1_libD",
+        "projectPath": "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libD\\lab_1_libD.csproj",
+        "packagesPath": "C:\\Users\\uyron\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libD\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\uyron\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libE\\lab_1_libE.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libE\\lab_1_libE.csproj",
+        "projectName": "lab_1_libE",
+        "projectPath": "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libE\\lab_1_libE.csproj",
+        "packagesPath": "C:\\Users\\uyron\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libE\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\uyron\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libF\\lab_1_libF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libF\\lab_1_libF.csproj",
+        "projectName": "lab_1_libF",
+        "projectPath": "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libF\\lab_1_libF.csproj",
+        "packagesPath": "C:\\Users\\uyron\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libF\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\uyron\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libJ\\lab_1_libJ.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libJ\\lab_1_libJ.csproj",
+        "projectName": "lab_1_libJ",
+        "projectPath": "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libJ\\lab_1_libJ.csproj",
+        "packagesPath": "C:\\Users\\uyron\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libJ\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\uyron\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

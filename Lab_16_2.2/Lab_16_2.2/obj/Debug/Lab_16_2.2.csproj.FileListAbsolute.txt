@@ -1,0 +1,13 @@
+C:\Users\uyron\source\repos\Lab_16_2.2\Lab_16_2.2\bin\Debug\Lab_16_2.2.dll
+C:\Users\uyron\source\repos\Lab_16_2.2\Lab_16_2.2\bin\Debug\Lab_16_2.2.pdb
+C:\Users\uyron\source\repos\Lab_16_2.2\Lab_16_2.2\obj\Debug\Lab_16_2.2.csprojAssemblyReference.cache
+C:\Users\uyron\source\repos\Lab_16_2.2\Lab_16_2.2\obj\Debug\LabelWithPicture.g.cs
+C:\Users\uyron\source\repos\Lab_16_2.2\Lab_16_2.2\obj\Debug\Lab_16_2.2_MarkupCompile.cache
+C:\Users\uyron\source\repos\Lab_16_2.2\Lab_16_2.2\obj\Debug\Lab_16_2.2_MarkupCompile.lref
+C:\Users\uyron\source\repos\Lab_16_2.2\Lab_16_2.2\obj\Debug\LabelWithPicture.baml
+C:\Users\uyron\source\repos\Lab_16_2.2\Lab_16_2.2\obj\Debug\Lab_16_2.2.g.resources
+C:\Users\uyron\source\repos\Lab_16_2.2\Lab_16_2.2\obj\Debug\Lab_16_2._2.Properties.Resources.resources
+C:\Users\uyron\source\repos\Lab_16_2.2\Lab_16_2.2\obj\Debug\Lab_16_2.2.csproj.GenerateResource.cache
+C:\Users\uyron\source\repos\Lab_16_2.2\Lab_16_2.2\obj\Debug\Lab_16_2.2.csproj.CoreCompileInputs.cache
+C:\Users\uyron\source\repos\Lab_16_2.2\Lab_16_2.2\obj\Debug\Lab_16_2.2.dll
+C:\Users\uyron\source\repos\Lab_16_2.2\Lab_16_2.2\obj\Debug\Lab_16_2.2.pdb

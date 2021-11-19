@@ -1,0 +1,191 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "lab_1_libA/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "lab_1_libB": "1.0.0",
+          "lab_1_libC": "1.0.0",
+          "lab_1_libJ": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/lab_1_libA.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/lab_1_libA.dll": {}
+        }
+      },
+      "lab_1_libB/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "lab_1_libD": "1.0.0",
+          "lab_1_libE": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/lab_1_libB.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/lab_1_libB.dll": {}
+        }
+      },
+      "lab_1_libC/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "lab_1_libE": "1.0.0",
+          "lab_1_libF": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/lab_1_libC.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/lab_1_libC.dll": {}
+        }
+      },
+      "lab_1_libD/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/lab_1_libD.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/lab_1_libD.dll": {}
+        }
+      },
+      "lab_1_libE/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/lab_1_libE.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/lab_1_libE.dll": {}
+        }
+      },
+      "lab_1_libF/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/lab_1_libF.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/lab_1_libF.dll": {}
+        }
+      },
+      "lab_1_libJ/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/lab_1_libJ.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/lab_1_libJ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lab_1_libA/1.0.0": {
+      "type": "project",
+      "path": "../lab_1_libA/lab_1_libA.csproj",
+      "msbuildProject": "../lab_1_libA/lab_1_libA.csproj"
+    },
+    "lab_1_libB/1.0.0": {
+      "type": "project",
+      "path": "../lab_1_libB/lab_1_libB.csproj",
+      "msbuildProject": "../lab_1_libB/lab_1_libB.csproj"
+    },
+    "lab_1_libC/1.0.0": {
+      "type": "project",
+      "path": "../lab_1_libC/lab_1_libC.csproj",
+      "msbuildProject": "../lab_1_libC/lab_1_libC.csproj"
+    },
+    "lab_1_libD/1.0.0": {
+      "type": "project",
+      "path": "../lab_1_libD/lab_1_libD.csproj",
+      "msbuildProject": "../lab_1_libD/lab_1_libD.csproj"
+    },
+    "lab_1_libE/1.0.0": {
+      "type": "project",
+      "path": "../lab_1_libE/lab_1_libE.csproj",
+      "msbuildProject": "../lab_1_libE/lab_1_libE.csproj"
+    },
+    "lab_1_libF/1.0.0": {
+      "type": "project",
+      "path": "../lab_1_libF/lab_1_libF.csproj",
+      "msbuildProject": "../lab_1_libF/lab_1_libF.csproj"
+    },
+    "lab_1_libJ/1.0.0": {
+      "type": "project",
+      "path": "../lab_1_libJ/lab_1_libJ.csproj",
+      "msbuildProject": "../lab_1_libJ/lab_1_libJ.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "lab_1_libA >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\uyron\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_mod\\lab_1_mod.csproj",
+      "projectName": "lab_1_mod",
+      "projectPath": "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_mod\\lab_1_mod.csproj",
+      "packagesPath": "C:\\Users\\uyron\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_mod\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\uyron\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libA\\lab_1_libA.csproj": {
+              "projectPath": "C:\\Users\\uyron\\source\\repos\\lab_1_mod\\lab_1_libA\\lab_1_libA.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

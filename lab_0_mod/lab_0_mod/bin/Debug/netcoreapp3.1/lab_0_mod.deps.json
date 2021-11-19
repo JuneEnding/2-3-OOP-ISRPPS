@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "lab_0_mod/1.0.0": {
+        "dependencies": {
+          "ClassLibrary_ForConsol15": "1.0.0.0"
+        },
+        "runtime": {
+          "lab_0_mod.dll": {}
+        }
+      },
+      "ClassLibrary_ForConsol15/1.0.0.0": {
+        "runtime": {
+          "ClassLibrary_ForConsol15.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lab_0_mod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibrary_ForConsol15/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
